@@ -1,0 +1,14 @@
+MIT License
+
+Bu yazılım ve belgelendirme dosyaları ("Yazılım"), aşağıdaki koşullara tabidir:
+
+Yukarıdaki telif hakkı bildirimi ve bu izin bildirimi yazılımın tüm kopyalarına veya önemli bölümlerine
+dahil edilmelidir.
+
+YAZILIM "OLDUĞU GİBİ" SAĞLANMAKTADIR, HERHANGİ BİR TÜRLÜ GARANTİ, TİCARETE ELVERİŞLİLİK, BELİRLİ BİR
+AMACA UYGUNLUK VEYA İHLAL OLMAMASI DAHİL ANCAK BUNUNLA SINIRLI OLMAKSIZIN AÇIK VEYA ZIMNİ HERHANGİ BİR
+TÜRLÜ GARANTİ DE DAHİL OLMAK ÜZERE, HİÇBİR TÜRLÜ GARANTİ OLMAKSIZIN SAĞLANIR. HİÇBİR KOŞULDA YAZARLAR
+VEYA TELİF HAKKI SAHİPLERİ HERHANGİ BİR TALEP, ZARAR VEYA DİĞER TÜRLÜ SORUMLULUK İÇİN BU YAZILIMDAN
+SORUMLU TUTULAMAZ.```
+
+**NOTICE:**
