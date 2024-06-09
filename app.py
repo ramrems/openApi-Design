@@ -24,7 +24,7 @@ app.config['SWAGGER'] = swagger_config
 swagger = Swagger(app, config=swagger_config)
 
 # URL of the Excel file
-excel_file_url = "https://github.com/ramrems/openApi/raw/main/books.xlsx"
+excel_file_url = "https://github.com/ramrems/openApi-Design/raw/main/books.xlsx"
 
 def load_data():
     try:
